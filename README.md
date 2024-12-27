@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>Hi, I'm Yery! <br/><a href="https://github.com/YeryODell">Programmer</a>, <a href="https://www.linkedin.com/in/yery-odell-a0a58355/">Systems Engineer</a>, <a href="https://medium.com/@yery.odell">Tech Writer</a></h1>
+
+
 
 <!--
 **YeryODell/YeryODell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
