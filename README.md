@@ -10,6 +10,7 @@
 
 ## 📰 Popular Articles
 
+- [Top 3 Python Coding Projects for Passive Income in 2025](https://medium.com/automate-everything/top-3-python-coding-projects-for-passive-income-in-2025-fd6458ce4c20)
 - [Raspberry Pi 5 — Booting from SSD](https://medium.com/automate-everything/raspberry-pi-5-booting-from-ssd-5d3e776bb481)
 - [Locally Hosted LLMs on Windows using Ollama](https://medium.com/automate-everything/locally-hosted-llms-on-windows-using-ollama-6d09815d540e)
 
