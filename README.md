@@ -3,6 +3,7 @@
 ## 👨‍💻 Software Development Projects:
 
 - [Ollama Tool (Function) Calling using LangChain](https://github.com/YeryODell/OllamaToolCalling)
+- [FlaskAPI](https://github.com/YeryODell/FlaskAPI)
 
 ## 📺 Popular YouTube Videos
 
